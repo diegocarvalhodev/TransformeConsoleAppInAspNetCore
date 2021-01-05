@@ -7,7 +7,7 @@ namespace Alura.ListaLeitura.App.Negocio
         public int Id { get; set; }    
         public string Titulo { get; set; }
         public string Autor { get; set; }
-        public ListaDeLeitura Lista { get; set; }
+        public ListaLeitura Lista { get; set; }
 
         public string Detalhes()
         {

@@ -2637,7 +2637,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "sha512": "CCf4NjmDOoise7FAij2VPuHIgKKsu696vkTwhOkPVQfLsTmB2WLFfQ4yeO5Udtk8FD636UBMx6Y9eovzJKT76A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
@@ -2799,7 +2799,7 @@
       ]
     },
     "Newtonsoft.Json/10.0.1": {
-      "sha512": "ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
+      "sha512": "MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
       "type": "package",
       "path": "newtonsoft.json/10.0.1",
       "hasTools": true,
@@ -3090,7 +3090,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -5438,23 +5438,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\garot\\.nuget\\packages\\": {},
+    "C:\\Users\\diego.carvalho\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+      "projectUniqueName": "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
       "projectName": "Alura.ListaLeitura.App",
-      "projectPath": "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
-      "packagesPath": "C:\\Users\\garot\\.nuget\\packages\\",
-      "outputPath": "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\obj\\",
+      "projectPath": "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+      "packagesPath": "C:\\Users\\diego.carvalho\\.nuget\\packages\\",
+      "outputPath": "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\garot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\diego.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

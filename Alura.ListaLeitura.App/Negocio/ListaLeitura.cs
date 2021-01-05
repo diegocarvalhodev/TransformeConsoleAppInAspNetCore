@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Alura.ListaLeitura.App.Negocio
 {
-    public class ListaDeLeitura
+    public class ListaLeitura
     {
         private List<Livro> _livros;
 
-        public ListaDeLeitura(string titulo, params Livro[] livros)
+        public ListaLeitura(string titulo, params Livro[] livros)
         {
             Titulo = titulo;
             _livros = livros.ToList();

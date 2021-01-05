@@ -5,9 +5,9 @@ namespace Alura.ListaLeitura.App.Repositorio
 {
     public class LivroRepositorioFake : ILivroRepositorio
     {
-        private ListaDeLeitura _paraLer;
-        private ListaDeLeitura _lendo;
-        private ListaDeLeitura _lidos;
+        private Negocio.ListaLeitura _paraLer;
+        private Negocio.ListaLeitura _lendo;
+        private Negocio.ListaLeitura _lidos;
 
         public LivroRepositorioFake()
         {
@@ -24,14 +24,14 @@ namespace Alura.ListaLeitura.App.Repositorio
             var l11 = new Livro { Titulo = "A Danca da Morte", Autor = "Stephen King" };
             var l12 = new Livro { Titulo = "Sombras da Noite", Autor = "Stephen King" };
 
-            _paraLer = new ListaDeLeitura("Para Ler", l1, l4, l5, l12);
-            _lendo = new ListaDeLeitura("Lendo", l3, l11);
-            _lidos = new ListaDeLeitura("Lidos", l2, l6, l7, l9, l8, l10);
+            this._paraLer = new Negocio.ListaLeitura("Para Ler", l1, l4, l5, l12);
+            this._lendo = new Negocio.ListaLeitura("Lendo", l3, l11);
+            this._lidos = new Negocio.ListaLeitura("Lidos", l2, l6, l7, l9, l8, l10);
         }
 
-        public ListaDeLeitura ParaLer => _paraLer;
-        public ListaDeLeitura Lendo => _lendo;
-        public ListaDeLeitura Lidos => _lidos;
+        public Negocio.ListaLeitura ParaLer => _paraLer;
+        public Negocio.ListaLeitura Lendo => _lendo;
+        public Negocio.ListaLeitura Lidos => _lidos;
 
         public IEnumerable<Livro> Todos => throw new System.NotImplementedException();
 

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {}
+    "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {}
   },
   "projects": {
-    "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {
+    "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+        "projectUniqueName": "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
         "projectName": "Alura.ListaLeitura.App",
-        "projectPath": "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
-        "packagesPath": "C:\\Users\\garot\\.nuget\\packages\\",
-        "outputPath": "C:\\Git Project\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\obj\\",
+        "projectPath": "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+        "packagesPath": "C:\\Users\\diego.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\GitProject\\TransformeConsoleAppInAspNetCore\\Alura.ListaLeitura.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\garot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\diego.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
