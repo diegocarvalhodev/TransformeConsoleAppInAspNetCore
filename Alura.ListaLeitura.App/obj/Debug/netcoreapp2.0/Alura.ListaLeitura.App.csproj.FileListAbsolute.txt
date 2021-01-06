@@ -3,7 +3,6 @@ C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
-C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csprojAssemblyReference.cache
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
@@ -11,8 +10,6 @@ C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
 C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
-C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\formulario.html
-C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\para-ler.html
 C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
 C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
 C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\para-ler.html
@@ -27,3 +24,5 @@ C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\obj\Debug\
 C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 C:\GitProject\TransformeConsoleAppInAspNetCore\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
+C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
+C:\Git Project\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\lista.cshtml
